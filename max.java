@@ -1,3 +1,5 @@
+// find the max element in 2d array
+
 import java.util.*;  
 public class max {  
 public static void main(String args[]){  
