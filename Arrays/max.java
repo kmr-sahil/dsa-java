@@ -1,3 +1,4 @@
+package Arrays;
 // find the max element in 2d array
 
 import java.util.*;  

@@ -1,3 +1,4 @@
+package Arrays;
 //reverse a 1d array
 
 import java.util.Scanner;
