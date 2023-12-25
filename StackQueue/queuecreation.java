@@ -10,8 +10,7 @@ public class queuecreation {
         st.offer(10);
         st.offer(20);
         st.offer(30);
-        st.offer(40);
-
+        
         System.out.println(st.peek());
 
         System.out.println(st.remove());

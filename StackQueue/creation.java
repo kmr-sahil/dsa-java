@@ -8,8 +8,7 @@ public class creation {
 
         st.add(10);
         st.add(20);
-        st.add(30);
-        st.add(40);
+
 
         System.out.println(st.peek());
 
