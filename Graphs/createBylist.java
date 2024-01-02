@@ -17,7 +17,7 @@ public class createBylist {
             graph.add(new ArrayList<>());
         }
 
-        for(int i=0; i<m; i++){
+        for(int i=0; i<m+1; i++){
 
             int v=sc.nextInt();
             int u=sc.nextInt();
